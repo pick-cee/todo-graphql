@@ -1,0 +1,3 @@
+# GRAPHQL TODO API, MADE WITH TYPESCRIPT AND NODE.JS
+
+## Author: AKinloluwa Olumuyide

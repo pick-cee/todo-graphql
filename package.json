@@ -1,0 +1,32 @@
+{
+  "name": "todo-graphql",
+  "version": "1.0.0",
+  "description": "A TODO API made with GraphQL as the query language and Typescript with Express.JS",
+  "main": "server.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pick-cee/todo-graphql.git"
+  },
+  "keywords": [
+    "typescript",
+    "graphql",
+    "express.js",
+    "node.js"
+  ],
+  "author": "Akinloluwa Olumuyide",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pick-cee/todo-graphql/issues"
+  },
+  "homepage": "https://github.com/pick-cee/todo-graphql#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^6.5.0",
+    "mongoose": "^8.3.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
